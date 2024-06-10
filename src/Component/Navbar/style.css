@@ -1,0 +1,11 @@
+.active{
+    background:transparent !important;
+    border-radius: 0;
+    border-bottom: 2px solid #fff;
+}
+a:focus{
+    color : #fff !important;
+}
+a:focus{
+    color :#000;
+}
